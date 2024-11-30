@@ -42,6 +42,11 @@ A Python-based desktop application for generating secure passwords. The applicat
 - **Clipboard Integration**:
   Simplifies saving passwords by allowing direct copying to the system clipboard.
 
+
+# 👁️ Visual Preview:
+![Task 3 password generator output](https://github.com/user-attachments/assets/d1c6cbaa-72f0-4c6f-8d60-1673e7aec9a4)
+
+
 ## File Overview
 
 - `password_generator.py`: Main application script.
