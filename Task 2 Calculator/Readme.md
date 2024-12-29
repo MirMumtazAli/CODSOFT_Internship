@@ -1,4 +1,4 @@
-# Simple Arithmetic Calculator
+# QuickCalc
 
 This is a simple command-line calculator application built with Python. The program prompts the user to input two numbers and choose an arithmetic operation (addition, subtraction, multiplication, or division). It then performs the operation and displays the result.
 
@@ -16,16 +16,6 @@ This is a simple command-line calculator application built with Python. The prog
 
 - Python 3.x or higher
 
-## Installation
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-arithmetic-calculator.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd simple-arithmetic-calculator
-   ```
 
 ## Usage
 
