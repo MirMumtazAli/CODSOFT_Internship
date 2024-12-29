@@ -9,13 +9,13 @@ During my internship, I worked on several exciting projects that allowed me to a
 ### 🧮 **QuickCalc**
 A GUI-based calculator developed using **Tkinter**. This project helped me get hands-on experience in creating interactive user interfaces in Python.
 
-### 🔑 **Password Generator**
+### 🔑 **PassGen Pro**
 A password generator tool that allows users to create their own secure passwords. This project improved my understanding of string manipulation and randomization in Python.
 
-### ✊ **Rock-Paper-Scissors Game**
+### ✊ **RPS Showdown**
 An interactive **Rock-Paper-Scissors game** built using Python logic, providing a fun way to practice Python’s control flow and user interaction.
 
-### 📱 **Contact Book**
+### 📱 **EasyConnect Address Book**
 A simple **contact management application** where you can store and search basic contact details. This project gave me practical experience in working with data structures and file handling.
 
 ## Key Highlights
