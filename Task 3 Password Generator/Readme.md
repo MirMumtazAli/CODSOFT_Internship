@@ -1,4 +1,4 @@
-# Password Generator
+# Task 3 PassGen Pro
 
 A Python-based desktop application for generating secure passwords. The application uses the Tkinter library to provide a graphical user interface (GUI) that allows users to customize password length and character types.
 
@@ -16,7 +16,7 @@ A Python-based desktop application for generating secure passwords. The applicat
 
 1. Run the application:
    ```bash
-   python password_generator.py
+   python Task 3 PassGen Pro.py
    ```
 
 2. In the application window:
@@ -49,7 +49,7 @@ A Python-based desktop application for generating secure passwords. The applicat
 
 ## File Overview
 
-- `password_generator.py`: Main application script.
+- `Task 3 PassGen Pro.py`: Main application script.
 
 ## Contributing
 
