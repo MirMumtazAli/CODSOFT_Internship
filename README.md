@@ -6,7 +6,7 @@ During my internship, I worked on several exciting projects that allowed me to a
 
 ## Projects
 
-### 🧮 **Calculator**
+### 🧮 **QuickCalc**
 A GUI-based calculator developed using **Tkinter**. This project helped me get hands-on experience in creating interactive user interfaces in Python.
 
 ### 🔑 **Password Generator**
