@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game 🎉
+# RPS Showdown
 
 A fun, interactive, and visually engaging implementation of the classic **Rock-Paper-Scissors** game using Python and Tkinter.
 
@@ -25,11 +25,11 @@ A fun, interactive, and visually engaging implementation of the classic **Rock-P
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-game.git
+   git clone https://github.com/yourusername/RPS-Showdown.git
    ```  
 2. **Navigate to the directory:**  
    ```bash
-   cd rock-paper-scissors-game
+   cd RPS-Showdown
    ```  
 3. **Run the game:**  
    ```bash
