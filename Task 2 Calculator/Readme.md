@@ -21,7 +21,7 @@ This is a simple command-line calculator application built with Python. The prog
 
 1. Run the script:
    ```bash
-   python calculator.py
+   QuickCalc Task 2.py
    ```
 2. Follow the on-screen instructions:
    - Enter two numbers when prompted.
