@@ -1,4 +1,4 @@
-# Contact Book Application  
+# EasyConnect Address Book
 
 The **Contact Book Application** is a simple yet effective tool designed to manage personal or professional contact information. With its intuitive interface built using Python's Tkinter library, it enables users to store, search, update, and delete contacts seamlessly.  
 
@@ -68,7 +68,7 @@ The app uses a Tkinter-based GUI with frames for different operations. A central
 1. Open a terminal or command prompt in the project directory.  
 2. Run the script:  
    ```bash  
-   python Task_5_Contact_Book.py  
+   python Task 5 EasyConnect Address Book.py  
    ```  
 3. The Contact Book application will open in a new window.  
 
